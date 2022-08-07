@@ -1,2 +1,10 @@
-# PG3D-22.5.4-Value-Encryption-Disabler-GG-Script
-A Script To Disable PG3D's Value Encryption For V22.5.4! 
+# PG3D Value Encryption Disabler!
+### This Script Is Made By TonicBoomerKewl (DarkOctet#5778) And Me! (Pulsed#1874)
+
+# Usage
+### How To Use:
+> Dont Come To My Or Tonic's DMS For Instructions.
+
+### NOTE THAT THIS SCRIPT WAS MADE WITH TonicBoomerKewl's PERMISSION
+
+# Download Script Here!
