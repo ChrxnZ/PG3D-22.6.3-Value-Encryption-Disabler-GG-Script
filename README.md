@@ -20,4 +20,3 @@
 * When You Have 4 Values In Save List And In Lobby:
 > Select Value Decrypter Searcher And Editor Option, Choose A Value (Eg: 1000), Enter It And What You Want To Edit It To And The Script Will Automatically Decrypt The Values And Edit Them.
 
-### Note That Some Kid Named Vnmped (loopen) / vnmped#0001 Is Trying To Take Credits For This Script After Leaking It!
